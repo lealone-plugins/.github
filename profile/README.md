@@ -59,6 +59,11 @@
   * [SQLLine](https://github.com/lealone-plugins/lealone-sqlline)
 
 
+## 全文检索
+
+  * [Lealone FullText Search](https://github.com/lealone-plugins/lealone-fulltext)
+
+
 ## 性能测试
 
   * [Lealone Bench](https://github.com/lealone-plugins/lealone-bench)
