@@ -5,7 +5,7 @@
   * [MySQL](https://github.com/lealone/Lealone/tree/master/lealone-plugins/mysql) <i><b>已经内置</b></i>
   * [PostgreSQL](https://github.com/lealone/Lealone/tree/master/lealone-plugins/postgresql) <i><b>已经内置</b></i>
   * [MongoDB](https://github.com/lealone/Lealone/tree/master/lealone-plugins/mongo) <i><b>已经内置</b></i>
-  * [Cassandra](https://github.com/lealone-plugins/lealone-cassandra)
+  * [Cassandra](https://github.com/lealone/Lealone/tree/master/lealone-plugins/cassandra) <i><b>已经内置</b></i>
   * [HBase](https://github.com/lealone-plugins/lealone-hbase)
   * [Oracle](https://github.com/lealone-plugins/lealone-oracle)
   * [Redis](https://github.com/lealone-plugins/lealone-redis)
