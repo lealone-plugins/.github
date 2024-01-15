@@ -2,10 +2,10 @@
 
 ## 数据库
 
-  * [MySQL](https://github.com/lealone/Lealone/tree/master/lealone-plugins/mysql) <i><b>已经内置</b></i>
-  * [PostgreSQL](https://github.com/lealone/Lealone/tree/master/lealone-plugins/postgresql) <i><b>已经内置</b></i>
-  * [MongoDB](https://github.com/lealone/Lealone/tree/master/lealone-plugins/mongo) <i><b>已经内置</b></i>
-  * [Cassandra](https://github.com/lealone/Lealone/tree/master/lealone-plugins/cassandra) <i><b>已经内置</b></i>
+  * [MySQL](https://github.com/lealone-plugins/lealone-mysql)
+  * [PostgreSQL](https://github.com/lealone-plugins/lealone-postgresql)
+  * [MongoDB](https://github.com/lealone-plugins/lealone-mongo)
+  * [Cassandra](https://github.com/lealone-plugins/lealone-cassandra)
   * [HBase](https://github.com/lealone-plugins/lealone-hbase)
   * [Oracle](https://github.com/lealone-plugins/lealone-oracle)
   * [Redis](https://github.com/lealone-plugins/lealone-redis)
