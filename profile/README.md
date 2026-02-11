@@ -15,8 +15,6 @@
   * [PostgreSQL](https://github.com/lealone-plugins/lealone-postgresql)
   * [MongoDB](https://github.com/lealone-plugins/lealone-mongo)
   * [Cassandra](https://github.com/lealone-plugins/lealone-cassandra)
-  * [HBase](https://github.com/lealone-plugins/lealone-hbase)
-  * [Oracle](https://github.com/lealone-plugins/lealone-oracle)
   * [Redis](https://github.com/lealone-plugins/lealone-redis)
 
 
@@ -45,11 +43,6 @@
   * [Lealone 微服务应用脚手架](https://github.com/lealone-plugins/lealone-create-app)
   * [Spring](https://github.com/lealone-plugins/lealone-spring)
   * [Vertx](https://github.com/lealone-plugins/lealone-vertx)
-
-
-## 服务注册与发现 / 配置服务器
-
-  * [ZooKeeper](https://github.com/lealone-plugins/lealone-zookeeper)
 
 
 ## 多语言支持
