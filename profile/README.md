@@ -1,14 +1,5 @@
 # Lealone 插件分类
 
-## Lealone 技术平台
-
-  * [Lealone Database](https://github.com/lealone/Lealone)
-  * [Lealone Boot](https://github.com/lealone-plugins/lealone-boot)
-  * [Lealone Tomcat](https://github.com/lealone-plugins/lealone-tomcat)
-  * [Lealone Service](https://github.com/lealone-plugins/lealone-service)
-  * [Lealone ORM](https://github.com/lealone-plugins/lealone-orm)
-
-
 ## 数据库
 
   * [MySQL](https://github.com/lealone-plugins/lealone-mysql)
@@ -33,13 +24,11 @@
 ## HTTP Server / Java 应用服务器
 
   * [Jetty](https://github.com/lealone-plugins/lealone-jetty)
-  * [Tomcat](https://github.com/lealone-plugins/lealone-tomcat)
   * [Undertow](https://github.com/lealone-plugins/lealone-undertow)
 
 
 ## 微服务框架
 
-  * [Lealone 微服务框架](https://github.com/lealone-plugins/lealone-service)
   * [Lealone 微服务应用脚手架](https://github.com/lealone-plugins/lealone-create-app)
   * [Spring](https://github.com/lealone-plugins/lealone-spring)
   * [Vertx](https://github.com/lealone-plugins/lealone-vertx)
@@ -49,11 +38,6 @@
 
   * [JavaScript](https://github.com/lealone-plugins/lealone-javascript)
   * [Python](https://github.com/lealone-plugins/lealone-python)
-
-
-## ORM 框架
-
-  * [Lealone ORM 框架](https://github.com/lealone-plugins/lealone-orm)
 
 
 ## 客户端
