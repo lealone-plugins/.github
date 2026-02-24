@@ -5,8 +5,6 @@
   * [MySQL](https://github.com/lealone-plugins/lealone-mysql)
   * [PostgreSQL](https://github.com/lealone-plugins/lealone-postgresql)
   * [MongoDB](https://github.com/lealone-plugins/lealone-mongo)
-  * [Cassandra](https://github.com/lealone-plugins/lealone-cassandra)
-  * [Redis](https://github.com/lealone-plugins/lealone-redis)
 
 
 ## 存储引擎
@@ -19,12 +17,6 @@
 ## SQL 引擎
 
   * [Lealone OLAP](https://github.com/lealone-plugins/lealone-olap)
-
-
-## HTTP Server / Java 应用服务器
-
-  * [Jetty](https://github.com/lealone-plugins/lealone-jetty)
-  * [Undertow](https://github.com/lealone-plugins/lealone-undertow)
 
 
 ## 微服务框架
