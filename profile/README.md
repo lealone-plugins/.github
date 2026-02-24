@@ -23,7 +23,6 @@
 
   * [Lealone 微服务应用脚手架](https://github.com/lealone-plugins/lealone-create-app)
   * [Spring](https://github.com/lealone-plugins/lealone-spring)
-  * [Vertx](https://github.com/lealone-plugins/lealone-vertx)
 
 
 ## 多语言支持
