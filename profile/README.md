@@ -19,18 +19,6 @@
   * [Lealone OLAP](https://github.com/lealone-plugins/lealone-olap)
 
 
-## 微服务框架
-
-  * [Lealone 微服务应用脚手架](https://github.com/lealone-plugins/lealone-create-app)
-  * [Spring](https://github.com/lealone-plugins/lealone-spring)
-
-
-## 多语言支持
-
-  * [JavaScript](https://github.com/lealone-plugins/lealone-javascript)
-  * [Python](https://github.com/lealone-plugins/lealone-python)
-
-
 ## 客户端
 
   * [SQLLine](https://github.com/lealone-plugins/lealone-sqlline)
